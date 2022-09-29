@@ -24,7 +24,11 @@ The signal pin of the PIR sensor is connected to the digital pin number 8 of the
 The Arduino based Home Barge Alert can also be used at various other places in day-to-day life by incorporating some changes into it, like:
 
 • Offices
+
 • ATM’s
+
 • Banks
+
 • Museums
+
 • Jewellery Shops
